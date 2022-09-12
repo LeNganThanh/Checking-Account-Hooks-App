@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px;
+  font-size: 2.5rem;
+  line-height: 60px;
+}
+
+button {
+  margin: 15px;
+  padding: 14px 45px;
+  background-color: darkcyan;
+  color: yellow;
+  border: none;
+  border-radius: 10px;
+  font-size: 2.5rem;
+}
+button:hover {
+  background-color: yellowgreen;
+  color: darkblue;
+  border: none;
+}
+
+h1 {
+  text-align: center;
+  font-size: 6rem;
+}
